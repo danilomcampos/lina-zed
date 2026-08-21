@@ -1,0 +1,7 @@
+id = "lina"
+name = "Lina"
+version = "0.0.1"
+schema_version = 1
+authors = ["Danilo Campos"]
+description = "Lina theme for Zed"
+repository = "https://github.com/danilomcampos/lina-zed"
